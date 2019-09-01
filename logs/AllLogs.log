@@ -1,0 +1,333 @@
+серп. 30, 2019 1:58:38 PM indexPage_test checkTitleTest
+INFO: Web page http://prestashop-automation.qatestlab.com.ua/ru/ was opened successfully.
+ 
+ 
+серп. 30, 2019 2:00:00 PM indexPage_test checkTitleTest
+INFO: Web page http://prestashop-automation.qatestlab.com.ua/ru/ was opened successfully.
+ 
+серп. 30, 2019 2:00:45 PM indexPage_test checkTitleTest
+INFO: Web page http://prestashop-automation.qatestlab.com.ua/ru/ was opened successfully.
+ 
+серп. 30, 2019 2:02:49 PM indexPage_test getCountOfCommodity
+INFO: Count of Commodity is equal on page SEARCH
+ 
+серп. 30, 2019 6:11:54 PM indexPage_test getResultUSD
+INFO: Count of Commodity is equal on page SEARCH
+ 
+серп. 30, 2019 6:31:42 PM indexPage_test getResultUSD
+INFO: Comjmodity was not found on page SEARCH
+ 
+серп. 30, 2019 6:32:22 PM indexPage_test getResultUSD
+INFO: Comjmodity was not found on page SEARCH
+ 
+серп. 30, 2019 6:35:26 PM indexPage_test getResultUSD
+INFO: Comjmodity was not found on page SEARCH
+ 
+ 
+серп. 30, 2019 6:53:15 PM indexPage_test getResultUSD
+INFO: Count of dollars results is equal with search "dress"
+ 
+серп. 30, 2019 7:51:46 PM indexPage_test getLowPrice
+INFO: Count of dollars results is wrong
+ 
+серп. 30, 2019 7:53:36 PM indexPage_test getLowPrice
+INFO: Count of dollars results is wrong
+ 
+серп. 30, 2019 7:55:05 PM indexPage_test getLowPrice
+INFO: Count of dollars results is wrong
+ 
+серп. 30, 2019 7:56:22 PM indexPage_test getLowPrice
+INFO: Count of dollars results is wrong
+ 
+серп. 30, 2019 7:57:19 PM indexPage_test getLowPrice
+INFO: Count of dollars results is wrong
+ 
+ 
+серп. 30, 2019 8:02:21 PM indexPage_test getLowPrice
+INFO: Count of dollars results is wrong
+ 
+ 
+серп. 30, 2019 8:07:05 PM indexPage_test getLowPrice
+INFO: sorted from high price to low
+ 
+серп. 31, 2019 5:17:27 PM indexPage_test getLowPrice
+INFO: sorted from high price to low
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+серп. 31, 2019 10:03:22 PM indexPage_test getLowPrice
+INFO: sorted from high price to low was not successfully
+ 
+серп. 31, 2019 10:03:46 PM indexPage_test getLowPrice
+INFO: sorted from high price to low
+ 
+серп. 31, 2019 10:03:46 PM indexPage_test getLowPrice
+INFO: sorted from high price to low
+ 
+серп. 31, 2019 10:03:46 PM indexPage_test getLowPrice
+INFO: sorted from high price to low
+ 
+серп. 31, 2019 10:03:46 PM indexPage_test getLowPrice
+INFO: sorted from high price to low
+ 
+серп. 31, 2019 10:03:46 PM indexPage_test getLowPrice
+INFO: sorted from high price to low
+ 
+серп. 31, 2019 10:03:46 PM indexPage_test getLowPrice
+INFO: sorted from high price to low
+ 
+серп. 31, 2019 10:03:46 PM indexPage_test getLowPrice
+INFO: sorted from high price to low
+ 
+серп. 31, 2019 10:03:46 PM indexPage_test getLowPrice
+INFO: sorted from high price to low
+ 
+серп. 31, 2019 10:03:46 PM indexPage_test getLowPrice
+INFO: sorted from high price to low
+ 
+серп. 31, 2019 10:03:46 PM indexPage_test getLowPrice
+INFO: sorted from high price to low
+ 
+серп. 31, 2019 10:03:46 PM indexPage_test getLowPrice
+INFO: sorted from high price to low
+ 
+серп. 31, 2019 10:03:46 PM indexPage_test getLowPrice
+INFO: sorted from high price to low
+ 
+серп. 31, 2019 10:03:46 PM indexPage_test getLowPrice
+INFO: sorted from high price to low
+ 
+серп. 31, 2019 10:03:46 PM indexPage_test getLowPrice
+INFO: sorted from high price to low
+ 
+серп. 31, 2019 10:03:46 PM indexPage_test getLowPrice
+INFO: sorted from high price to low
+ 
+серп. 31, 2019 10:03:46 PM indexPage_test getLowPrice
+INFO: sorted from high price to low
+ 
+серп. 31, 2019 10:03:46 PM indexPage_test getLowPrice
+INFO: sorted from high price to low
+ 
+серп. 31, 2019 10:03:46 PM indexPage_test getLowPrice
+INFO: sorted from high price to low
+ 
+вер. 01, 2019 1:24:39 AM indexPage_test getLowPrice
+INFO: sorted from high price to low
+ 
+вер. 01, 2019 1:24:39 AM indexPage_test getLowPrice
+INFO: sorted from high price to low
+ 
+вер. 01, 2019 1:24:39 AM indexPage_test getLowPrice
+INFO: sorted from high price to low
+ 
+вер. 01, 2019 1:24:39 AM indexPage_test getLowPrice
+INFO: sorted from high price to low
+ 
+вер. 01, 2019 1:24:39 AM indexPage_test getLowPrice
+INFO: sorted from high price to low
+ 
+вер. 01, 2019 2:01:37 AM indexPage_test getLowPrice
+INFO: sorted from high price to low
+ 
+вер. 01, 2019 2:01:37 AM indexPage_test getLowPrice
+INFO: sorted from high price to low
+ 
+вер. 01, 2019 2:01:37 AM indexPage_test getLowPrice
+INFO: sorted from high price to low
+ 
+вер. 01, 2019 2:01:37 AM indexPage_test getLowPrice
+INFO: sorted from high price to low
+ 
+вер. 01, 2019 2:01:37 AM indexPage_test getLowPrice
+INFO: sorted from high price to low
+ 
+вер. 01, 2019 2:01:37 AM indexPage_test getLowPrice
+INFO: sorted from high price to low
+ 
+вер. 01, 2019 2:01:37 AM indexPage_test getLowPrice
+INFO: sorted from high price to low
+ 
+вер. 01, 2019 2:01:37 AM indexPage_test getLowPrice
+INFO: sorted from high price to low
+ 
+вер. 01, 2019 2:01:37 AM indexPage_test getLowPrice
+INFO: sorted from high price to low
+ 
+вер. 01, 2019 2:01:37 AM indexPage_test getLowPrice
+INFO: sorted from high price to low
+ 
+вер. 01, 2019 2:01:37 AM indexPage_test getLowPrice
+INFO: sorted from high price to low
+ 
+вер. 01, 2019 2:01:37 AM indexPage_test getLowPrice
+INFO: sorted from high price to low
+ 
+вер. 01, 2019 2:01:37 AM indexPage_test getLowPrice
+INFO: sorted from high price to low
+ 
+вер. 01, 2019 2:01:37 AM indexPage_test getLowPrice
+INFO: sorted from high price to low
+ 
+ 
+вер. 01, 2019 4:20:40 PM indexPage_test getLowPrice
+INFO: sorted from high price to low
+ 
+вер. 01, 2019 4:22:52 PM indexPage_test getTrueSorted
+INFO: Sorted was fine
+ 
+вер. 01, 2019 4:34:31 PM indexPage_test getDisqountAndPrices
+INFO: Sorted was fine
+ 
+вер. 01, 2019 4:35:16 PM indexPage_test getTrueSorted
+INFO: Sorted was fine
+ 
+вер. 01, 2019 4:37:22 PM indexPage_test getTrueSorted
+INFO: Sorted was  not fine
+ 
+вер. 01, 2019 4:38:06 PM indexPage_test getTrueSorted
+INFO: Sorted was  not fine
+ 
+вер. 01, 2019 4:39:17 PM indexPage_test getTrueSorted
+INFO: Sorted was  not fine
+ 
+вер. 01, 2019 4:39:58 PM indexPage_test getTrueSorted
+INFO: Sorted was fine
+ 
+вер. 01, 2019 4:40:49 PM indexPage_test getTrueSorted
+INFO: Sorted was fine
+ 
+вер. 01, 2019 4:42:16 PM indexPage_test getTrueSorted
+INFO: Sorted was fine
+ 
+вер. 01, 2019 4:43:03 PM indexPage_test getTrueSorted
+INFO: Sorted was  not fine
+ 
+вер. 01, 2019 4:43:22 PM indexPage_test getTrueSorted
+INFO: Sorted was  not fine
+ 
+вер. 01, 2019 4:44:36 PM indexPage_test getTrueSorted
+INFO: Sorted was fine
+ 
+вер. 01, 2019 4:45:58 PM indexPage_test getTrueSorted
+INFO: Sorted was  not fine
+ 
+вер. 01, 2019 4:47:24 PM indexPage_test getTrueSorted
+INFO: Sorted was  not fine
+ 
+вер. 01, 2019 4:48:04 PM indexPage_test getTrueSorted
+INFO: Sorted was  not fine
+ 
+вер. 01, 2019 4:49:24 PM indexPage_test getTrueSorted
+INFO: Sorted was fine
+ 
+вер. 01, 2019 4:52:18 PM indexPage_test getTrueSorted
+INFO: Sorted was fine
+ 
+вер. 01, 2019 4:56:21 PM indexPage_test getTrueSorted
+INFO: Sorted was fine
+ 
+вер. 01, 2019 4:58:25 PM indexPage_test getTrueSorted
+INFO: Sorted was fine
+ 
+вер. 01, 2019 5:01:27 PM indexPage_test getTrueSorted
+INFO: Sorted was  not fine
+ 
+вер. 01, 2019 5:03:35 PM indexPage_test getTrueSorted
+INFO: Sorted was fine
+ 
+вер. 01, 2019 5:06:36 PM indexPage_test getDisqountAndPrices
+INFO: Sorted was  not fine
+ 
+вер. 01, 2019 5:08:08 PM indexPage_test getDisqountAndPrices
+INFO: Sorted was  not fine
+ 
+вер. 01, 2019 5:08:27 PM indexPage_test getDisqountAndPrices
+INFO: Sorted was  not fine
+ 
+ 
+ 
+вер. 01, 2019 5:17:32 PM indexPage_test getDisqountAndPrices
+INFO: Sorted was  not fine
+ 
+ 
+вер. 01, 2019 5:26:44 PM indexPage_test getDisqountAndPrices
+INFO: Sorted was  not fine
+ 
+ 
+вер. 01, 2019 5:33:22 PM indexPage_test getDiscountAndPrices
+INFO: Sorted was  not fine
+ 
+вер. 01, 2019 5:33:58 PM indexPage_test getDiscountAndPrices
+INFO: On page Search with word dress was not found discount  and 2 prices
+вер. 01, 2019 5:33:58 PM indexPage_test getDiscountAndPrices
+INFO: On page Search with word dress was found discount = -5% and 2 prices: 1,08 $ and 1,14 $
+вер. 01, 2019 5:34:08 PM indexPage_test getDiscountAndPrices
+INFO: On page Search with word dress was not found discount  and 2 prices
+вер. 01, 2019 5:34:18 PM indexPage_test getDiscountAndPrices
+INFO: On page Search with word dress was not found discount  and 2 prices
+вер. 01, 2019 5:34:28 PM indexPage_test getDiscountAndPrices
+INFO: On page Search with word dress was not found discount  and 2 prices
+вер. 01, 2019 5:34:28 PM indexPage_test getDiscountAndPrices
+INFO: On page Search with word dress was found discount = -20% and 2 prices: 0,61 $ and 0,76 $
+вер. 01, 2019 5:34:39 PM indexPage_test getDiscountAndPrices
+INFO: On page Search with word dress was not found discount  and 2 prices
+ 
+вер. 01, 2019 5:37:36 PM indexPage_test getDiscountAndPrices
+INFO: On page Search with word dress was found price
+вер. 01, 2019 5:37:37 PM indexPage_test getDiscountAndPrices
+INFO: On page Search with word dress was found discount = -5% and 2 prices: 1,08 $ and 1,14 $
+вер. 01, 2019 5:37:47 PM indexPage_test getDiscountAndPrices
+INFO: On page Search with word dress was found price
+вер. 01, 2019 5:37:57 PM indexPage_test getDiscountAndPrices
+INFO: On page Search with word dress was found price
+вер. 01, 2019 5:38:07 PM indexPage_test getDiscountAndPrices
+INFO: On page Search with word dress was found price
+вер. 01, 2019 5:38:07 PM indexPage_test getDiscountAndPrices
+INFO: On page Search with word dress was found discount = -20% and 2 prices: 0,61 $ and 0,76 $
+вер. 01, 2019 5:38:17 PM indexPage_test getDiscountAndPrices
+INFO: On page Search with word dress was found price
+ 
+ 
+ 
+ 
+вер. 01, 2019 5:56:51 PM indexPage_test getDiscountTrue
+INFO: Sorted was  not fine
+ 
+вер. 01, 2019 5:58:35 PM indexPage_test getDiscountTrue
+INFO: Sorted was  not fine
+ 
+вер. 01, 2019 6:04:08 PM indexPage_test getDiscountTrue
+INFO: Sorted was  not fine
+ 
+вер. 01, 2019 6:04:30 PM indexPage_test getDiscountTrue
+INFO: Sorted was  not fine
+ 
+вер. 01, 2019 6:04:53 PM indexPage_test getDiscountTrue
+INFO: Sorted was  not fine
+ 
+вер. 01, 2019 6:07:07 PM indexPage_test getDiscountTrue
+INFO: Sorted was  not fine
+ 
+вер. 01, 2019 6:08:45 PM indexPage_test getDiscountTrue
+INFO: Sorted was  not fine
+ 
+вер. 01, 2019 6:09:52 PM indexPage_test getDiscountTrue
+INFO: Sorted was  not fine
+ 
+ 
